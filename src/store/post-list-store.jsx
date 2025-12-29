@@ -61,8 +61,8 @@ const DEFAULT_POST_LIST = [
   },
   {
     id: "2",
-    title: "Paas ho bhai",
-    body: "4 saal ki masti k baad bhi ho gaye hain paas. Hard to believe.",
+    title: "Tasty Recipies",
+    body: "Tried many types of dishes, and it tastes out amazing!!. Sharing it with you guys.",
     reactions: 15,
     userId: "user-12",
     tags: ["Graduating", "Unbelievable"],
@@ -70,3 +70,4 @@ const DEFAULT_POST_LIST = [
 ];
 
 export default PostListProvider;
+
